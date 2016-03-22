@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dbfm", "dbfm\dbfm.csproj", "{741AE78E-2623-4B0F-8D33-6582B9D4BE86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ch8", "ch8\ch8.csproj", "{4F3A62FB-16E5-4C2B-B1CD-63F1AD90E4FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop", "oop\oop.csproj", "{4B797FD3-971D-4F61-AC76-FD9EEBE3274D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "itfc", "itfc\itfc.csproj", "{B05FCA25-E36E-4D03-9D39-40C3E311A02D}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://cardus.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ch8\\ch8.csproj
+		SccProjectName1 = ch8
+		SccLocalPath1 = ch8
+		SccProjectUniqueName2 = dbfm\\dbfm.csproj
+		SccProjectName2 = dbfm
+		SccLocalPath2 = dbfm
+		SccProjectUniqueName3 = oop\\oop.csproj
+		SccProjectName3 = oop
+		SccLocalPath3 = oop
+		SccProjectUniqueName4 = itfc\\itfc.csproj
+		SccProjectName4 = itfc
+		SccLocalPath4 = itfc
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{741AE78E-2623-4B0F-8D33-6582B9D4BE86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{741AE78E-2623-4B0F-8D33-6582B9D4BE86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{741AE78E-2623-4B0F-8D33-6582B9D4BE86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{741AE78E-2623-4B0F-8D33-6582B9D4BE86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F3A62FB-16E5-4C2B-B1CD-63F1AD90E4FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F3A62FB-16E5-4C2B-B1CD-63F1AD90E4FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F3A62FB-16E5-4C2B-B1CD-63F1AD90E4FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F3A62FB-16E5-4C2B-B1CD-63F1AD90E4FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B797FD3-971D-4F61-AC76-FD9EEBE3274D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B797FD3-971D-4F61-AC76-FD9EEBE3274D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B797FD3-971D-4F61-AC76-FD9EEBE3274D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B797FD3-971D-4F61-AC76-FD9EEBE3274D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B05FCA25-E36E-4D03-9D39-40C3E311A02D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B05FCA25-E36E-4D03-9D39-40C3E311A02D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B05FCA25-E36E-4D03-9D39-40C3E311A02D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B05FCA25-E36E-4D03-9D39-40C3E311A02D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
